@@ -58,3 +58,5 @@ async function TrackData(){
 }
 
 TrackData()
+
+//link apigenerator: https://apigenerator.dronahq.com/api/aC6ZlLHD/planilha
